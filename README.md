@@ -12,3 +12,5 @@ It also creates a cache.yaml which contains all the already found image URLs.
 On the 18th you can call merge.sh which will combine all the images into the final result.
 
 Run findimg.py once a day using a cron or something similar.
+
+To install required libraries: `$ pip3 install -r requirements.txt`
